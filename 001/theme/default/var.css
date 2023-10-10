@@ -1,0 +1,63 @@
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+:root {
+	--font-family: "Roboto", "Segoe UI";
+	--font-family-print: "Roboto", "Segoe UI";
+	--font-family-code: "Roboto", "Segoe UI";
+	--font-family-mono: "Roboto", "Segoe UI";
+	--font-family-title: "Roboto", "Segoe UI";
+	--font-family-description: "Roboto", "Segoe UI";
+	--font-family-article: "Roboto", "Segoe UI";
+	--font-family-quote: "Roboto", "Segoe UI";
+	--font-family-error: "Roboto", "Segoe UI";
+	--font-family-warning: "Roboto", "Segoe UI";
+	--font-family-notice: "Roboto", "Segoe UI";
+	--font-family-logo: "Roboto", "Segoe UI";
+	--font-size: 13px;
+	--font-tiny: 65%;
+	--font-small: 80%;
+	--font-medium: 125%;
+	--font-large: 150%;
+	--font-big: 175%;
+	--font-icon: 125%;
+	--font-emoticon: 100%;
+	}
+
+/**
+ * xxx
+ *
+ * title
+ * description
+ * sub description
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */
+
+:root {
+	--border-radius: 2px;
+	--border-radius-pop: 4px;
+	--border-radius-regular: 10px;
+	--border-radius-round: 100px;
+	--border-radius-circle: 100%;
+	--no-pixel: 0px;
+	--pixel: 1px;
+	--px: 10px;
+	--px-small: 5px;
+	--px-medium: 15px;
+	--px-large: 20px;
+	--px-big: 25px;
+	}
+
+/**
+ * the end
+ *
+ * xxx://xxx.xxx.xxx/xxx
+ */

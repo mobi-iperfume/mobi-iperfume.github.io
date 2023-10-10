@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunk"]=self["webpackChunk"]||[]).push([[303],{8303:(e,t,r)=>{r.r(t),r.d(t,{default:()=>d});var n=r(6252);function o(e,t,r,o,s,u){return(0,n.wg)(),(0,n.iD)("div",null," test ")}var s=r(4198);const u=s.ZP.router({setup(){return console.log("vue.socket",s.ZP.socket,1),s.ZP.export()},method:{function(){}}});var c=r(3744);const a=(0,c.Z)(u,[["render",o],["__scopeId","data-v-48a5da8c"]]),d=a}}]);
+//# sourceMappingURL=303.11bc51b2.js.map
